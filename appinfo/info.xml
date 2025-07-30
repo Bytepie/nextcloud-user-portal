@@ -10,7 +10,7 @@
 	<author mail="umer@bytepie.com" homepage="https://bytepie.com">Umer Tahir</author>
 	<namespace>userportal</namespace>
 	<category>tools</category>
-	<bugs>https://bytepie.com</bugs>
+	<bugs>https://github.com/Bytepie/nextcloud-user-portal</bugs>
 	<dependencies>
 		<nextcloud min-version="29" max-version="31"/>
 	</dependencies>

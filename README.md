@@ -18,3 +18,5 @@ Using Nextcloud Vue 3 UI Library
 ## Notes
 
 - This project is a **proof-of-concept**.
+
+![User Portal](https://bytepie.com/wp-content/uploads/2025/07/userportal.webp)
