@@ -2,7 +2,7 @@
 
 
 A custom Nextcloud admin-side app to manage users and assign storage quotas. 
-Built with PHP (Nextcloud app framework) and Vue.js version 3.
+Built with PHP (Nextcloud app framework) and Vue.js v3 in composition api.
 
 Using Nextcloud Vue 3 UI Library
 
