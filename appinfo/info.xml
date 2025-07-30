@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+	<id>userportal</id>
+	<name>User Portal</name>
+	<summary>Users Management App for Nextcloud</summary>
+	<description>Custom Users Management for Nextcloud</description>
+	<version>1.0.0</version>
+	<licence>agpl</licence>
+	<author mail="umer@bytepie.com" homepage="https://bytepie.com">Umer Tahir</author>
+	<namespace>userportal</namespace>
+	<category>tools</category>
+	<bugs>https://bytepie.com</bugs>
+	<dependencies>
+		<nextcloud min-version="29" max-version="31"/>
+	</dependencies>
+	<navigations>
+		<navigation>
+			<id>userportal</id>
+			<name>User Portal</name>
+			<route>userportal.page.index</route>
+			<icon>app.svg</icon>
+			<type>link</type>
+		</navigation>
+	</navigations>
+</info>
